@@ -4,6 +4,10 @@ Réalisez le cadrage d’un projet IA
 
 # Développement d'une Application Mobile de Recommandation d'Articles Vestimentaires Basée sur l'IA
 
+## Aperçu de l'entreprise
+
+![Aperçu du site web](images/DS_projet10.PNG)
+
 ## Contexte
 
 Je suis **IA Product Manager** chez **Fashion-Insta**, une entreprise de mode avec un réseau de magasins physiques et une plateforme e-commerce. Le projet consiste à développer une **application mobile de recommandation de vêtements basée sur des photos d'utilisateurs**.
