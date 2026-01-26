@@ -4,7 +4,7 @@
 
 ![Aperçu du site web](images/DS_projet10.PNG)
 
-## 👗 Contexte professionnel
+##  Contexte professionnel
 
 En tant que **IA Product Manager** chez **Fashion-Insta**, une entreprise de mode disposant d’un réseau de magasins physiques et d’une plateforme e-commerce, j’ai piloté le cadrage d’un **projet stratégique d’intelligence artificielle** visant à développer une **application mobile de recommandation vestimentaire personnalisée à partir de photos**.
 
@@ -12,7 +12,7 @@ L'objectif du projet est de permettre aux utilisateurs de photographier leurs te
 
 ---
 
-## 🎯 Objectifs
+##  Objectifs
 
 - Définir les **besoins fonctionnels et techniques** pour une application mobile IA.
 - Formaliser un **backlog complet de user stories** priorisées selon **MoSCoW**.
@@ -23,31 +23,31 @@ L'objectif du projet est de permettre aux utilisateurs de photographier leurs te
 
 ---
 
-## 🧩 Étapes du projet
+##  Étapes du projet
 
-### 1. 🔹 Backlog de User Stories (SCRUM)
+### 1.  Backlog de User Stories (SCRUM)
 - Rédaction des user stories métiers et IA.
 - Utilisation de **MoSCoW** pour la priorisation.
 - Intégration des **critères d’acceptation** pour le MVP.
-- ✅ *Livrable* : Backlog SCRUM prêt à être intégré dans un outil de gestion de projet (Jira, Trello…).
+-  *Livrable* : Backlog SCRUM prêt à être intégré dans un outil de gestion de projet (Jira, Trello…).
 
-### 2. 🔹 Estimation des Charges, Coûts et Rentabilité
+### 2.  Estimation des Charges, Coûts et Rentabilité
 - Chiffrage par profil (Dev, Data Scientist, DevOps…).
 - Évaluation des **coûts cloud Azure** (entraîneur IA, stockage, inférence).
 - Analyse de rentabilité sur **3 ans** (ROI).
-- ✅ *Livrable* : Tableau Excel et graphique de rentabilité.
+-  *Livrable* : Tableau Excel et graphique de rentabilité.
 
-### 3. 🔹 Enjeux Légaux et Éthiques
+### 3.  Enjeux Légaux et Éthiques
 - Formalisation du **registre de traitements** CNIL.
 - Analyse des risques **biais IA**, **profilage**, **surreprésentation de certaines morphologies**.
-- ✅ *Livrable* : Registre RGPD et matrice de risques éthiques.
+-  *Livrable* : Registre RGPD et matrice de risques éthiques.
 
-### 4. 🔹 Identification des Risques (Spectre 7D)
+### 4.  Identification des Risques (Spectre 7D)
 - Utilisation de la check-list **Spectre 7D** pour la gestion des risques projet.
 - Plan de mitigation sur les volets **technique, juridique, sécurité, performance IA**.
-- ✅ *Livrable* : Plan d’action de gestion des risques.
+-  *Livrable* : Plan d’action de gestion des risques.
 
-### 5. 🔹 Préparation de la Soutenance COMEX
+### 5.  Préparation de la Soutenance COMEX
 - Rédaction d’une **présentation PowerPoint de 20 minutes** :
   - Contexte et enjeux métier
   - Architecture fonctionnelle
@@ -55,11 +55,11 @@ L'objectif du projet est de permettre aux utilisateurs de photographier leurs te
   - Backlog priorisé pour le MVP
   - Calendrier agile et ressources nécessaires
   - Risques & conformité RGPD
-- ✅ *Livrable* : Présentation COMEX + Backlog MVP.
+-  *Livrable* : Présentation COMEX + Backlog MVP.
 
 ---
 
-## 💡 Technologies & Méthodes
+##  Technologies & Méthodes
 
 | Type                        | Outils / Méthodes utilisés                        |
 |----------------------------|--------------------------------------------------|
@@ -71,27 +71,27 @@ L'objectif du projet est de permettre aux utilisateurs de photographier leurs te
 
 ---
 
-## ⚠️ Points de vigilance
+##  Points de vigilance
 
-- 📊 **Rentabilité** : S'assurer d’un retour sur investissement réaliste (3 ans max).
-- 🧠 **Biais algorithmiques** : Évaluer les modèles IA sur différents types de morphologies, styles et genres.
-- 🔐 **RGPD** : Prévoir le consentement, l’anonymisation, la suppression des données utilisateurs.
-- ☁️ **Coûts Azure** : Anticiper les pics de charges et optimiser les ressources cloud.
-
----
-
-## 📎 Livrables principaux
-
-- ✅ Backlog complet priorisé (SCRUM + MoSCoW)
-- ✅ Registre de traitements RGPD (format CNIL)
-- ✅ Analyse de rentabilité (tableau + graphique)
-- ✅ Présentation COMEX (PowerPoint)
-- ✅ Plan de gestion des risques (Spectre 7D)
-- ✅ User stories MVP pour lancement rapide
+-  **Rentabilité** : S'assurer d’un retour sur investissement réaliste (3 ans max).
+-  **Biais algorithmiques** : Évaluer les modèles IA sur différents types de morphologies, styles et genres.
+-  **RGPD** : Prévoir le consentement, l’anonymisation, la suppression des données utilisateurs.
+-  **Coûts Azure** : Anticiper les pics de charges et optimiser les ressources cloud.
 
 ---
 
-## 📌 Résumé
+##  Livrables principaux
+
+-  Backlog complet priorisé (SCRUM + MoSCoW)
+-  Registre de traitements RGPD (format CNIL)
+-  Analyse de rentabilité (tableau + graphique)
+-  Présentation COMEX (PowerPoint)
+-  Plan de gestion des risques (Spectre 7D)
+-  User stories MVP pour lancement rapide
+
+---
+
+##  Résumé
 
 Ce projet m’a permis de cadrer de bout en bout une **solution IA orientée utilisateur** avec une forte dimension **produit** et **cloud**. Il s’inscrit dans une démarche responsable alliant **expérience client personnalisée**, **exigence technique**, **analyse de rentabilité** et **conformité réglementaire**.
 
